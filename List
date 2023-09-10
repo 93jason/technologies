@@ -23,8 +23,9 @@
     "Github",
     "Azure Powershell",
     "Azure CLI",
-    "Terraform"
-    "YAML"
+    "Terraform",
+    "YAML",
+    "Bitbucket"
   ]
   "Other": [
     "Fortinet",
