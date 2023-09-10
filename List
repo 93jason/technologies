@@ -32,5 +32,6 @@
     "Fortinet",
     "Zerto",
     "VMware"
+    "Jira (Kanban Board)",
   ]
 }
