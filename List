@@ -8,6 +8,7 @@
     "Recovery Services Vault (Backup and Site Recovery)",
     "Automation Accounts",
     "Function Apps",
+    "App Service Plans",
     "Role-Based Access Control (RBAC),
     "Azure Firewall",
     "Service Principle",
