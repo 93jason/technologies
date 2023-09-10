@@ -1,0 +1,34 @@
+{
+  "AzureResources": [
+    "Expressroute",
+    "Virtual Network Gateway (Point to Site and Site to Site)",
+    "Virtual Network (VNET)",
+    "NAT Gateway",
+    "Network Security Groups",
+    "Recovery Services Vault (Backup and Site Recovery)",
+    "Automation Accounts",
+    "Function Apps",
+    "Role-Based Access Control (RBAC),
+    "Azure Firewall",
+    "Service Principle",
+    "Virtual Machines",
+    "Virtual Disks",
+    "Bastion",
+    "Storage Accounts",
+    "Route Server"    
+    
+  ]
+  "Automation": [
+    "Git",
+    "Github",
+    "Azure Powershell",
+    "Azure CLI",
+    "Terraform"
+    "YAML"
+  ]
+  "Other": [
+    "Fortinet",
+    "Zerto",
+    "VMware"
+  ]
+}
