@@ -15,7 +15,8 @@
     "Virtual Disks",
     "Bastion",
     "Storage Accounts",
-    "Route Server"    
+    "Route Server",
+    "Log Analytics Workspace"
     
   ]
   "Automation": [
